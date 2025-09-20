@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: end-to-end-app
-  namespace: flask-app
+  namespace: flask-app-dev
   labels:
     app: end-to-end-app
 spec:
