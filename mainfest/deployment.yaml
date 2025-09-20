@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: end-to-end-container
-          image: omarzaki222/end-to-end-project:8-cf12418
+          image: omarzaki222/end-to-end-project:9-a9c36c7
           ports:
             - containerPort: 8000
           env:
